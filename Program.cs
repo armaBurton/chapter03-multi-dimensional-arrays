@@ -13,13 +13,13 @@
 //   for (int col = 0; col <= grid1.GetUpperBound(1); col++){
 //     WriteLine($"Row {row}, Column {col}: {grid1[row, col]}");
 //   }
-}
+// }
 
 //Working with jagged arrays
 string[][] jagged = new[]{
-  {"Alpha", "Beta", "Gamma"},
-  {"Anne", "Ben", "Charlie", "Doug"},
-  {"Aardvark", "Bear"}
+  new[] {"Alpha", "Beta", "Gamma"},
+  new[] {"Anne", "Ben", "Charlie", "Doug"},
+  new[] {"Aardvark", "Bear"}
 };
 
 WriteLine($"Upper bound of array of arrays is: {0}", jagged.GetUpperBound(0));
