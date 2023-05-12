@@ -46,3 +46,12 @@ int[] emptyNumbers = new int[] { };
 int[] threeNumbers = new int[] { 9, 7, 5 };
 int[] sixNumbers = new int[] { 9, 7, 5, 4, 2, 10 };
 
+WriteLine($"{nameof(sequentialNumbers)}: {CheckSwitch(sequentialNumbers)}");
+WriteLine($"{nameof(oneTwoNumbers)}: {CheckSwitch(oneTwoNumbers)}");
+WriteLine($"{nameof(oneTwoTenNumbers)}: {CheckSwitch(oneTwoTenNumbers)}");
+WriteLine($"{nameof(oneTwoThreeTenNumbers)}: {CheckSwitch(oneTwoThreeTenNumbers)}");
+WriteLine($"{nameof(primeNumbers)}: {CheckSwitch(primeNumbers)}");
+WriteLine($"{nameof(fibonacciNumbers)}: {CheckSwitch(fibonacciNumbers)}");
+WriteLine($"{nameof(emptyNumbers)}: {CheckSwitch(emptyNumbers)}");
+WriteLine($"{nameof(threeNumbers)}: {CheckSwitch(threeNumbers)}");
+WriteLine($"{nameof(sixNumbers)}: {CheckSwitch(sixNumbers)}");
