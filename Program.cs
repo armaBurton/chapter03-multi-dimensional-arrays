@@ -16,8 +16,16 @@
 }
 
 //Working with jagged arrays
-string[,] grid1 = new[,]{
+string[][] jagged = new[]{
   {"Alpha", "Beta", "Gamma"},
   {"Anne", "Ben", "Charlie", "Doug"},
   {"Aardvark", "Bear"}
 };
+
+WriteLine($"Upper bound of array of arrays is: {0}", jagged.GetUpperBound(0));
+
+for(int array = 0; array <= jagged.GetUpperBound(0); array++){
+  WriteLine("Upper bound of array {0}",
+    arg0: array,
+    arg1: jagged[array].GetUpperBound(0));
+}
