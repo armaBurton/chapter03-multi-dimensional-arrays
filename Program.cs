@@ -29,3 +29,9 @@ for(int array = 0; array <= jagged.GetUpperBound(0); array++){
     arg0: array,
     arg1: jagged[array].GetUpperBound(0));
 }
+
+for(int row = 0; row <= jagged.GetUpperBound(0); row++){
+  for(int col = 0; col <= jagged[row].GetUpperBound(0); col++){
+    WriteLine($"Row {row}, Column {col}: {jagged[row][col]}");
+  }
+}
