@@ -1,0 +1,15 @@
+D:\001 work\projects\c#\cs11dotnet7\Chapter03\chapter03-multi-dimensional-arrays\obj\Debug\net7.0\chapter03-multi-dimensional-arrays.csproj.AssemblyReference.cache
+D:\001 work\projects\c#\cs11dotnet7\Chapter03\chapter03-multi-dimensional-arrays\obj\Debug\net7.0\chapter03-multi-dimensional-arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\001 work\projects\c#\cs11dotnet7\Chapter03\chapter03-multi-dimensional-arrays\obj\Debug\net7.0\chapter03-multi-dimensional-arrays.AssemblyInfoInputs.cache
+D:\001 work\projects\c#\cs11dotnet7\Chapter03\chapter03-multi-dimensional-arrays\obj\Debug\net7.0\chapter03-multi-dimensional-arrays.AssemblyInfo.cs
+D:\001 work\projects\c#\cs11dotnet7\Chapter03\chapter03-multi-dimensional-arrays\obj\Debug\net7.0\chapter03-multi-dimensional-arrays.csproj.CoreCompileInputs.cache
+D:\001 work\projects\c#\cs11dotnet7\Chapter03\chapter03-multi-dimensional-arrays\bin\Debug\net7.0\chapter03-multi-dimensional-arrays.exe
+D:\001 work\projects\c#\cs11dotnet7\Chapter03\chapter03-multi-dimensional-arrays\bin\Debug\net7.0\chapter03-multi-dimensional-arrays.deps.json
+D:\001 work\projects\c#\cs11dotnet7\Chapter03\chapter03-multi-dimensional-arrays\bin\Debug\net7.0\chapter03-multi-dimensional-arrays.runtimeconfig.json
+D:\001 work\projects\c#\cs11dotnet7\Chapter03\chapter03-multi-dimensional-arrays\bin\Debug\net7.0\chapter03-multi-dimensional-arrays.dll
+D:\001 work\projects\c#\cs11dotnet7\Chapter03\chapter03-multi-dimensional-arrays\bin\Debug\net7.0\chapter03-multi-dimensional-arrays.pdb
+D:\001 work\projects\c#\cs11dotnet7\Chapter03\chapter03-multi-dimensional-arrays\obj\Debug\net7.0\chapter03-multi-dimensional-arrays.dll
+D:\001 work\projects\c#\cs11dotnet7\Chapter03\chapter03-multi-dimensional-arrays\obj\Debug\net7.0\refint\chapter03-multi-dimensional-arrays.dll
+D:\001 work\projects\c#\cs11dotnet7\Chapter03\chapter03-multi-dimensional-arrays\obj\Debug\net7.0\chapter03-multi-dimensional-arrays.pdb
+D:\001 work\projects\c#\cs11dotnet7\Chapter03\chapter03-multi-dimensional-arrays\obj\Debug\net7.0\chapter03-multi-dimensional-arrays.genruntimeconfig.cache
+D:\001 work\projects\c#\cs11dotnet7\Chapter03\chapter03-multi-dimensional-arrays\obj\Debug\net7.0\ref\chapter03-multi-dimensional-arrays.dll
